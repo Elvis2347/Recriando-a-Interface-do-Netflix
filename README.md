@@ -1,0 +1,2 @@
+# Recriando-a-Interface-do-Netflix
+Projeto criando no bootcamp HTML Web Developer da DIO - Digital Innovation One. o bootcamp tem como objetivo, ensinar a programar páginas de internet e desenvolvimento websites utilizando HTML, CSS e JavaScript para iniciar sua trajetoria profissional em desenvolvimento web front-end. Neste projeto tentei fazer um site com acesso a alguns livros e possibilitando a leitura desse livros online, essa recriação leva o nome de OnLibary.
